@@ -47,7 +47,7 @@
   <tr>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br>
-      <b>PostgreSQL</b><br>⭐⭐⭐
+      <b>PostgreSQL</b><br>⭐⭐⭐⭐
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" /><br>
