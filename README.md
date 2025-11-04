@@ -63,7 +63,7 @@
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br>
-      <b>Git</b><br>⭐⭐⭐
+      <b>Git</b><br>⭐⭐⭐⭐
     </td>
       <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /><br>
