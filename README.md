@@ -41,7 +41,7 @@
     </td>
       <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="CI/CD Pipelines" /><br>
-      <b>CI/CD Pipelines</b><br>⭐⭐⭐
+      <b>CI/CD Pipelines</b><br>⭐⭐⭐⭐
     </td>
   </tr>
   <tr>
